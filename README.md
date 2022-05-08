@@ -2,7 +2,7 @@
 
 First clone app
 
-![](https://i.hizliresim.com/nl88p27.png | width=100px)
+<img src="https://i.hizliresim.com/nl88p27.png" width="100">
 
 ![](https://i.hizliresim.com/9tnyuz8.png)
 
